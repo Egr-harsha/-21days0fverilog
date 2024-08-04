@@ -1,2 +1,2 @@
-# -100days0fverilog
-100 days of RTL coding
+# -21days0fverilog
+21 days of RTL coding
