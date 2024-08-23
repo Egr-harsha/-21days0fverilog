@@ -9,3 +9,7 @@ Day3  --->  Edge Detector with Testbench.
 Day4  ---> 4-bit ALU Design with Testbench.
 Day5  ---> Odd Counter with Testbench.
 Day6  ---> Shift Register with Testbench.
+Day7  ---> LFSR with Testebench.
+Day8  ---> Binary to One-hot Converter with Testbench.
+Day9  ---> Binary to Gray Converter with Testbench.
+Day10 --->
