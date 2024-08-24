@@ -12,4 +12,4 @@ Day6  ---> Shift Register with Testbench.
 Day7  ---> LFSR with Testebench.
 Day8  ---> Binary to One-hot Converter with Testbench.
 Day9  ---> Binary to Gray Converter with Testbench.
-Day10 --->
+Day10 ---> Counter with loading value with Testbench. 
