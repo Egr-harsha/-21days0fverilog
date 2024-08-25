@@ -15,3 +15,4 @@ Day9  ---> Binary to Gray Converter with Testbench.
 Day10 ---> Counter with loading value with Testbench. 
 Day11 ---> Valid and Empty based Parallel to Serial Converter with Testbench.
 Day12 ---> Detecting given Big Sequence with Testbench.
+Day13 ---> Different Mux design with Testbench.
