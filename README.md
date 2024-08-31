@@ -17,3 +17,4 @@ Day11 ---> Valid and Empty based Parallel to Serial Converter with Testbench.
 Day12 ---> Detecting given Big Sequence with Testbench.
 Day13 ---> Different Mux design with Testbench.
 Day14 ---> Fixed Priority Arbiter design with Testbench.
+Day21 ---> Find the second set bit from the LSB of the given Vector with Testbench.
