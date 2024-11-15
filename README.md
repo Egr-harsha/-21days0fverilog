@@ -1,6 +1,8 @@
 # 21 Days of RTL Coding in SystemVerilog
 
-Welcome to the "21 Days of RTL Coding" challenge! This repository contains daily SystemVerilog challenges designed to improve your RTL design skills. Each task includes code and a corresponding testbench.
+Welcome to the "21 Days of RTL Coding" challenge! 
+This repository contains daily SystemVerilog challenges designed to improve your RTL design skills. 
+Each task includes code and a corresponding testbench.
 
 ---
 
