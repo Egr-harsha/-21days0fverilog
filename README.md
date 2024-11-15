@@ -25,27 +25,9 @@ Welcome to the "21 Days of RTL Coding" challenge! This repository contains daily
 
 ---
 
-## Day 1: 2:1 Mux Design
-**Goal**: Design a 2:1 multiplexer using SystemVerilog.  
-**Testbench**: Included for simulation and verification.
-
-- **Code**: [mux.sv](./Day1/mux.sv)
-- **Testbench**: [mux_tb.sv](./Day1/mux_tb.sv)
-
----
-
-## Day 2: Different D Flip-Flops
-**Goal**: Implement different types of D flip-flops (positive edge, negative edge, and clock-enable).  
-**Testbench**: Ensure proper functionality for each flip-flop type.
-
-- **Code**: [flipflops.sv](./Day2/flipflops.sv)
-- **Testbench**: [flipflops_tb.sv](./Day2/flipflops_tb.sv)
-
----
-
 ## How to Use This Repository
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/21-days-rtl.git
+   git clone https://github.com/Egr-harsha/21-days-rtl.git
 
